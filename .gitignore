@@ -1,0 +1,6 @@
+*.yaml
+*.hcl
+*.yml
+meta.txt
+variables.tf
+.terraform/
