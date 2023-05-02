@@ -3,4 +3,5 @@
 *.yml
 meta.txt
 variables.tf
+backend.tf
 .terraform/
