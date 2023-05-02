@@ -37,5 +37,4 @@ resource "yandex_compute_instance" "vm" {
     user-data = "${file("~/Terraform/B5.7.HW.03/meta.txt")}"
 
   }
-
 }
